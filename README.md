@@ -1,8 +1,6 @@
 # 📚 BookFinder
 
-**BookFinder** é um aplicativo Flutter que permite pesquisar livros usando a API do Google Books. O app possui autenticação com Google via Firebase, tema escuro, cinco telas principais com rotas nomeadas e uma interface responsiva em português.
-
----
+**BookFinder** é um aplicativo Flutter que permite pesquisar livros usando a API do Google Books.
 
 ---
 
