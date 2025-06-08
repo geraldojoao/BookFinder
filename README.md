@@ -20,16 +20,19 @@
 
 ## 🚀 Instalação
 
-### Pré-requisitos
+environment:
+  sdk: ">=2.18.0 <3.0.0"
 
-- Flutter SDK (>= 3.10.0)
-- Conta Firebase configurada com login via Google
-- Emulador ou dispositivo físico
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  provider: ^6.0.5
 
-### Passos
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
 
-```bash
-git clone https://github.com/seu-usuario/bookfinder.git
-cd bookfinder
-flutter pub get
+flutter:
+  uses-material-design: true
 
