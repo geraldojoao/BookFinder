@@ -26,23 +26,4 @@
 ### Tela de Resultados da Busca
 ![Tela de Resultados](https://github.com/geraldojoao/BookFinder/blob/main/BookFinder/lista.PNG)
 
----
 
-## 🚀 Instalação
-
-```yaml
-environment:
-  sdk: ">=2.18.0 <3.0.0"
-
-dependencies:
-  flutter:
-    sdk: flutter
-  http: ^0.13.5
-  provider: ^6.0.5
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
-flutter:
-  uses-material-design: true
